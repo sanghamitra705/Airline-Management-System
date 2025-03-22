@@ -25,7 +25,7 @@ A simple Java-based Airline Management System that stores flights, passengers, a
 
     Clone the repository
 
-git clone https://github.com/your-username/Airline-Management-System.git
+[git clone https://github.com/your-username/Airline-Management-System.git](https://github.com/sanghamitra705/Airline-Management-System)
 cd Airline-Management-System
 
 Compile the Java files
@@ -63,7 +63,7 @@ AI101,New York,London,10:00 AM,200
 passengers.txt
 
 First Name,Last Name,Email,Phone
-John,Doe,john@example.com,1234567890
+Sanghamita,Sahoo,sanghamitrasahoo1968@gmail.com,xxxxx9999
 
 bookings.txt
 

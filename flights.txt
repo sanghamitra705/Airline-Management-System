@@ -1,0 +1,2 @@
+Flight Number,Origin,Destination,Time,Seats Available
+AI123,BBI,IXR,12:23,124

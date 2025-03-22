@@ -58,7 +58,7 @@ Run the program
 flights.txt
 
 Flight Number,Origin,Destination,Time,Seats Available
-AI101,New York,London,10:00 AM,200
+AI101,BBI,IXR,10:00 AM,200
 
 passengers.txt
 
